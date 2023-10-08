@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Thomas
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning how to efficiently use neural networks on structured data
-- 💞️ I’m looking to collaborate on projects that improve useability for real-world ml use-cases
-- 📫 How to reach me ... look for me on LinkedIn or Xing 😊 
+- 👋 Greetings, this is the GitHub profile of Thomas Glanzer
+- 👀 I am an enthusiast in the field of Data Science, Machine Learning and Software Engineering
+- 🌱 I currently focus on applying Gen-AI (Language Models) to existing real world applications
+- 📫 You can reach me on LinkedIn or Xing 🤝
 
 <!---
 thg-muc/thg-muc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
