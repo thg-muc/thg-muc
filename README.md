@@ -1,5 +1,5 @@
 - 👋 Greetings, this is the GitHub profile of Thomas Glanzer
-- 👀 I am an enthusiast in the field of Data Science, Machine Learning and Software Engineering
+- 👀 I am an enthusiast in the field of Artificial Intelligence, Data Science and Software Engineering
 - 🌱 I currently focus on applying Gen-AI (Language Models) to existing real world applications
 - 📫 You can reach me on LinkedIn or Xing 🤝
 
